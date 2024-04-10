@@ -1,0 +1,14 @@
+com\mycompany\panaderia\Controlador\ProductoControlador.class
+com\mycompany\panaderia\Vista\HistorialComprasVista.class
+com\mycompany\panaderia\Vista\ProductosVista.class
+com\mycompany\panaderia\Vista\OrdenesCompraVista.class
+com\mycompany\panaderia\Modelo\Compra.class
+com\mycompany\panaderia\Panaderia.class
+com\mycompany\panaderia\Controlador\CompraControlador.class
+com\mycompany\panaderia\Vista\LoginVista.class
+com\mycompany\panaderia\Modelo\Producto.class
+com\mycompany\panaderia\Modelo\Cierre.class
+com\mycompany\panaderia\Vista\LoginVista$1.class
+com\mycompany\panaderia\Modelo\Funcionario.class
+com\mycompany\panaderia\Vista\OrdenesCompraVista$1.class
+com\mycompany\panaderia\Controlador\LoginControlador.class
